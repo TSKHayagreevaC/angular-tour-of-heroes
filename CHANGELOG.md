@@ -8,6 +8,7 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 ## Added
 - Added initial setup, components.
 - Added angular service.
+- Added navigation with routing.
 
 ## Changed
 
